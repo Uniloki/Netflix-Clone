@@ -1,0 +1,10 @@
+.movie-desc {
+	color: white;
+	padding: 50px;
+	font-size: 0.8rem;
+}
+.watch-link {
+	color: white;
+	text-decoration: none;
+	margin: 0 auto;
+}
